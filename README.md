@@ -20,11 +20,11 @@
 const abhijeet = {
     name: "Abhijeet Dabhole",
     role: "Full-Stack Developer",
-    languages: ["JavaScript", "C#", "SQL", "HTML", "CSS"],
-    frontend: ["React.js", "HTML5", "CSS3"],
-    backend: ["ASP.NET MVC", "ASP.NET Web API", ".NET Framework 4.8"],
+    languages: ["JavaScript", "C#", "SQL", "HTML", "CSS", "Python"],
+    frontend: ["Angular", "React.js", "HTML5", "CSS3"],
+    backend: ["ASP.NET Core", "ASP.NET MVC", "ASP.NET Web API", ".NET Framework 4.8"],
     database: ["SQL Server"],
-    tools: ["Git", "GitHub", "ClosedXML", "REST APIs"],
+    tools: ["Git", "GitHub", "REST APIs", "AI", "Claude", "ChatGPT", "Antigravity Gemini"],
     currentFocus: "Building scalable full-stack web applications",
     funFact: "I turn coffee into code ☕ → 💻"
 };
@@ -44,14 +44,17 @@ const abhijeet = {
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚛️ Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -61,7 +64,11 @@ const abhijeet = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Processing-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🤖 AI & LLMs
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 
 </div>
 
