@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
   <img src="banner.png" alt="Abhijeet Dabhole — Full-Stack Developer" width="100%" />
 
@@ -141,4 +141,3 @@ const abhijeet = {
   ⭐ **If you find my work useful, consider giving a star!** ⭐
 
 </div>
-]]>
